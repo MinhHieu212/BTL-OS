@@ -1,2 +1,1 @@
-# BTL-OS
-# Assignment operating system in hk222
+ BTL-OS: Assignment operating system in hk222
